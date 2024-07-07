@@ -14,7 +14,7 @@ if (form && input && sectionTempoInfo) {
         }
 
         try {
-            const resposta = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${localizacao}&appid=f47df2bcb1f945e46c82f250185a7325&lang=pt_br&units=metric`);
+            const resposta = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${localizacao}&appid=f47df2bcb1f945e46c82f250185a7325&lang=pt_br&units=metric`);
 
             const dados = await resposta.json();
 
