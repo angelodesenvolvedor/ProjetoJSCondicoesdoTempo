@@ -23,12 +23,12 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/angelodesenvolvedor/ProjetoJSCondicoesdoTempo.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd nome-do-repositorio
+    cd ProjetoJSCondicoesdoTempo
     ```
 
 3. Instale as dependências:
@@ -70,18 +70,6 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 2. Clique no botão "Pesquisar".
 3. Veja as informações climáticas da cidade pesquisada.
 
-## Capturas de Tela
 
-![Captura de Tela](path/to/screenshot.png)
 
-## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver alguma dúvida, entre em contato pelo email: seu-email@exemplo.com
