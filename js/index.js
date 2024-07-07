@@ -21,7 +21,7 @@ if (form && input && sectionTempoInfo) {
         }
         try {
             console.log(`Pesquisando clima para: ${localizacao}`);
-            const resposta = yield fetch(`http://api.openweathermap.org/data/2.5/weather?q=${localizacao}&appid=f47df2bcb1f945e46c82f250185a7325&lang=pt_br&units=metric`);
+            const resposta = yield fetch(`https://api.openweathermap.org/data/2.5/weather?q=${localizacao}&appid=f47df2bcb1f945e46c82f250185a7325&lang=pt_br&units=metric`);
             
             if (!resposta.ok) {
                 throw new Error(`Erro na resposta da API: ${resposta.statusText}`);
