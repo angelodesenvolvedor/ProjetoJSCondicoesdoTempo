@@ -67,6 +67,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 - Clique no botão "Pesquisar".
 - Veja as informações climáticas da cidade pesquisada.
 
+![image](https://github.com/angelodesenvolvedor/ProjetoJSCondicoesdoTempo/assets/98216100/a98b56dc-6f78-4b09-9e9e-cae1526820a2)
 
 
 
