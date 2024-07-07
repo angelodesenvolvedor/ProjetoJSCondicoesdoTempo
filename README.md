@@ -63,12 +63,9 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 - O usuário pode inserir uma localização no campo de texto e clicar no botão "Pesquisar".
 - Se a localização tiver pelo menos 3 caracteres, a aplicação fará uma chamada à API do OpenWeatherMap para obter os dados climáticos.
 - Os dados exibidos incluem a temperatura atual e um ícone representando as condições climáticas.
-
-## Exemplo de Uso
-
-1. Digite o nome de uma cidade no campo de texto (por exemplo, "São Paulo").
-2. Clique no botão "Pesquisar".
-3. Veja as informações climáticas da cidade pesquisada.
+- Digite o nome de uma cidade no campo de texto (por exemplo, "São Paulo").
+- Clique no botão "Pesquisar".
+- Veja as informações climáticas da cidade pesquisada.
 
 
 
