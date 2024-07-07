@@ -1,6 +1,6 @@
 # Condições do Tempo
 
-🔥 **Introdução**
+# 🔥Introdução
 
 Esse projeto é da aula Projeto JS: Condições do Tempo do curso Front-end em React na Ada Tech. 
 
@@ -10,14 +10,14 @@ Ele permite aos usuários pesquisar e visualizar as condições climáticas de u
 - Exibir temperatura atual.
 - Exibir ícone representando as condições climáticas.
 
-⚙️ **Pré-requisitos**
+# ⚙️ Pré-requisitos
 
 Para instalar e executar este projeto, você precisará ter o seguinte instalado em seu sistema:
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
-🔨 **Guia de instalação**
+# 🔨 Guia de instalação
 
 Siga os passos abaixo para configurar e executar o projeto em seu ambiente de desenvolvimento.
 
@@ -43,7 +43,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 
 5. Abra o arquivo `index.html` em seu navegador para ver o projeto em ação.
 
-📦 **Tecnologias usadas**
+# 💻 Tecnologias usadas
 
 - HTML
 - CSS
@@ -58,7 +58,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 - `js/index.js`: Lógica principal em JavaScript.
 - `ts/index.ts`: Lógica principal em TypeScript.
 
-## Funcionalidades
+## ✅Funcionalidades
 
 - O usuário pode inserir uma localização no campo de texto e clicar no botão "Pesquisar".
 - Se a localização tiver pelo menos 3 caracteres, a aplicação fará uma chamada à API do OpenWeatherMap para obter os dados climáticos.
